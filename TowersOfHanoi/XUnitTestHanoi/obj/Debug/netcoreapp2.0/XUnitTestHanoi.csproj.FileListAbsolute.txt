@@ -1,0 +1,16 @@
+C:\Users\pedra\Documents\codefellows\401\Lab10-Recursion\TowersOfHanoi\XUnitTestHanoi\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\pedra\Documents\codefellows\401\Lab10-Recursion\TowersOfHanoi\XUnitTestHanoi\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\pedra\Documents\codefellows\401\Lab10-Recursion\TowersOfHanoi\XUnitTestHanoi\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\pedra\Documents\codefellows\401\Lab10-Recursion\TowersOfHanoi\XUnitTestHanoi\bin\Debug\netcoreapp2.0\XUnitTestHanoi.deps.json
+C:\Users\pedra\Documents\codefellows\401\Lab10-Recursion\TowersOfHanoi\XUnitTestHanoi\bin\Debug\netcoreapp2.0\XUnitTestHanoi.runtimeconfig.json
+C:\Users\pedra\Documents\codefellows\401\Lab10-Recursion\TowersOfHanoi\XUnitTestHanoi\bin\Debug\netcoreapp2.0\XUnitTestHanoi.runtimeconfig.dev.json
+C:\Users\pedra\Documents\codefellows\401\Lab10-Recursion\TowersOfHanoi\XUnitTestHanoi\bin\Debug\netcoreapp2.0\XUnitTestHanoi.dll
+C:\Users\pedra\Documents\codefellows\401\Lab10-Recursion\TowersOfHanoi\XUnitTestHanoi\bin\Debug\netcoreapp2.0\XUnitTestHanoi.pdb
+C:\Users\pedra\Documents\codefellows\401\Lab10-Recursion\TowersOfHanoi\XUnitTestHanoi\bin\Debug\netcoreapp2.0\TowersOfHanoi.dll
+C:\Users\pedra\Documents\codefellows\401\Lab10-Recursion\TowersOfHanoi\XUnitTestHanoi\bin\Debug\netcoreapp2.0\TowersOfHanoi.pdb
+C:\Users\pedra\Documents\codefellows\401\Lab10-Recursion\TowersOfHanoi\XUnitTestHanoi\obj\Debug\netcoreapp2.0\XUnitTestHanoi.csprojResolveAssemblyReference.cache
+C:\Users\pedra\Documents\codefellows\401\Lab10-Recursion\TowersOfHanoi\XUnitTestHanoi\obj\Debug\netcoreapp2.0\XUnitTestHanoi.csproj.CoreCompileInputs.cache
+C:\Users\pedra\Documents\codefellows\401\Lab10-Recursion\TowersOfHanoi\XUnitTestHanoi\obj\Debug\netcoreapp2.0\XUnitTestHanoi.AssemblyInfoInputs.cache
+C:\Users\pedra\Documents\codefellows\401\Lab10-Recursion\TowersOfHanoi\XUnitTestHanoi\obj\Debug\netcoreapp2.0\XUnitTestHanoi.AssemblyInfo.cs
+C:\Users\pedra\Documents\codefellows\401\Lab10-Recursion\TowersOfHanoi\XUnitTestHanoi\obj\Debug\netcoreapp2.0\XUnitTestHanoi.dll
+C:\Users\pedra\Documents\codefellows\401\Lab10-Recursion\TowersOfHanoi\XUnitTestHanoi\obj\Debug\netcoreapp2.0\XUnitTestHanoi.pdb
